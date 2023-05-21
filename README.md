@@ -6,7 +6,7 @@ Moi c'est Etoile de Feu, j'adore coder et je compte poster des trucs sur ce gith
 
 
 
-<h1> **Langages de programmations :**</H1>
+<h1>Langages de programmations :</H1>
 
 + Je code principalement en javascript, mais j'explore un peu tous les languages : PHP, python, Html/CSS, bash, et bien d'autres !
 
