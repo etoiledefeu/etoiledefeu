@@ -13,6 +13,6 @@ Moi c'est Etoile de Feu, j'adore coder et je compte poster des trucs sur ce gith
 **Mes statistiques :**
 ![Stats de etoiledefeu](https://github-readme-stats.vercel.app/api?username=etoiledefeu&show_icons=true&theme=tokyonight)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=etoiledefeu&repo=sbot-docs)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://komarev.com/ghpvc/?username=etoiledefeu&color=blue)
 
 + 🤖 Je code un bot discord ! Si tu veux l'ajouter : [lien](https://top.gg/bot/988866995393024040)
