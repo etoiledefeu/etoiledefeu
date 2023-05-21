@@ -12,7 +12,7 @@ Moi c'est Etoile de Feu, j'adore coder et je compte poster des trucs sur ce gith
 
 <h1>Mes statistiques :</h1>
 ![Stats de etoiledefeu](https://github-readme-stats.vercel.app/api?username=etoiledefeu&show_icons=true&theme=tokyonight)
-![](https://komarev.com/ghpvc/?username=etoiledefeu&color=blue)
+![oe](https://komarev.com/ghpvc/?username=etoiledefeu&color=blue)
 
 <h2>Mes repos :</h2>
 
