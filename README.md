@@ -16,13 +16,10 @@ Moi c'est Etoile de Feu, j'adore coder et je compte poster des trucs sur ce gith
 
 ![oe](https://komarev.com/ghpvc/?username=etoiledefeu&color=blue)
 
-<h2>Mes repos :</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=etoiledefeu&repo=sbot-docs)](https://github.com/etoiledefeu/sbot-docs)
-
 <h2> Mes principaux projets </h2>
 
 + 🤖 Je code un bot discord ! Si tu veux l'ajouter : [lien](https://top.gg/bot/988866995393024040)
+Sa documentation : [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=etoiledefeu&repo=sbot-docs)](https://github.com/etoiledefeu/sbot-docs)
 + Module npm à venir... 👀
 
 
