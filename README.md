@@ -10,11 +10,14 @@ Moi c'est Etoile de Feu, j'adore coder et je compte poster des trucs sur ce gith
 
 + Je code principalement en javascript, mais j'explore un peu tous les languages : PHP, python, Html/CSS, bash, et bien d'autres !
 
-<h1>Mes statistiques :</h1>
+<h1>Mes statistiques Github :</h1>
 
 ![Stats de etoiledefeu](https://github-readme-stats.vercel.app/api?username=etoiledefeu&show_icons=true&theme=tokyonight)
 
 ![oe](https://komarev.com/ghpvc/?username=etoiledefeu&color=blue)
+
+[![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=etoiledefeu&size_weight=0.5&count_weight=0.5)](https://github.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etoiledefeu)](https://github.com)
 
 <h2> Mes principaux projets </h2>
 
