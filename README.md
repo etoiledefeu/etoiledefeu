@@ -16,8 +16,7 @@ Moi c'est Etoile de Feu, j'adore coder et je compte poster des trucs sur ce gith
 
 ![oe](https://komarev.com/ghpvc/?username=etoiledefeu&color=blue)
 
-[![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=etoiledefeu&size_weight=0.5&count_weight=0.5)](https://github.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etoiledefeu)](https://github.com)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etoiledefeu)](https://github.com)
 
 <h2> Mes principaux projets </h2>
 
