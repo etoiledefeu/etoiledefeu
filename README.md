@@ -25,6 +25,6 @@ On this github, I will post npm modules, and others !
 
 + 🤖 Je code un bot discord ! Si tu veux l'ajouter : [lien](https://top.gg/bot/988866995393024040) et voici sa documentation : 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=etoiledefeu&repo=sbot-docs)](https://github.com/etoiledefeu/sbot-docs)
-+ Module npm à venir... 👀
++ Npm module soon... 👀
 
 
