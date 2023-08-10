@@ -15,7 +15,7 @@ On this github, I will post npm modules, and others !
 + Also, I explore and use other language : bash, a little kotlin, and many others !
 I planned to learn PHP and C.
 
-<h1>My Github'statistics :</h1>
+<h1 align="center">My Github'statistics :</h1>
 
 ![Stats de etoiledefeu](https://github-readme-stats.vercel.app/api?username=etoiledefeu&show_icons=true&theme=tokyonight)
 
@@ -23,7 +23,7 @@ I planned to learn PHP and C.
 
 ![oe](https://komarev.com/ghpvc/?username=etoiledefeu&color=blue)
 
-<h2> My main projects </h2>
+<h2 align="center"> My main projects </h2>
 
 + 🤖 I code a discord bot ! If you want to add it to your guild: [lien](https://top.gg/bot/988866995393024040) and here is its documentation: 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=etoiledefeu&repo=sbot-docs)](https://github.com/etoiledefeu/sbot-docs)
