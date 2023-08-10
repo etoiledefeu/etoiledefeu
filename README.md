@@ -1,4 +1,4 @@
-### Hi ! 👋
+# Hi ! 👋
 
 I'me Etoile de Feu, a passionate french developer 👨‍💻.
 Since my youth I have been passionate about computers, notably in software.
@@ -7,7 +7,7 @@ I started to really code 1 year and a half ago. 1year ago, I'm coding my first p
 Since then, I explore all languages ​​with passion !
 On this github, I will post npm modules, and others !
 
-<h1 align="center">My #3 programming languages</h1>
+<h1 align="center" style="color:blue;">My #3 programming languages</h1>
 
 + JavaScript/Nodejs (my main programming language)
 + HTML/CSS
