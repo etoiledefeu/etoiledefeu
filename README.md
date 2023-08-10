@@ -1,10 +1,15 @@
-### Salut 👋
+### Hi ! 👋
 
+I'me Etoile de Feu, a passionate french developer.
+Since my youth I have been passionate about computers, notably in software.
+Linux is my main operating system, but I also use Windows.
+I started to really code 1 year and a half ago. 1year ago, I'm coding my first programming'project : Sbot, a discord bot in nodejs.
+Since then, I explore all languages ​​with passion !
+On this github, I will post npm modules, and others !
 
-Moi c'est Etoile de Feu, j'adore coder et je compte poster des trucs sur ce github, telle que des modules npm, ou autre !
+<h1>My main programming languages</h1>
 
-
-<h1>Langages de programmations :</h1>
++
 
 + Je code principalement en javascript, mais j'explore un peu tous les languages : PHP, python, Html/CSS, bash, et bien d'autres !
 
