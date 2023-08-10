@@ -7,7 +7,7 @@ I started to really code 1 year and a half ago. 1year ago, I'm coding my first p
 Since then, I explore all languages ​​with passion !
 On this github, I will post npm modules, and others !
 
-<h1>My main programming languages</h1>
+<h1 align="center">My main programming languages</h1>
 
 +
 
