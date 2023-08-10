@@ -1,7 +1,7 @@
 # Hi ! 👋
 
 I'me Etoile de Feu, a passionate french developer 👨‍💻.
-Since my youth I have been passionate about computers, notably in software.
+Since my youth I have been passionate about computers, notably in softwares .
 Linux is my main operating system (I use several distros, (my favorite is Ubuntu)) from the beginning, (terminal ❤️), but I also use Windows.
 I started to really code 1 year and a half ago. 1year ago, I'm coding my first programming'project : Sbot, a discord bot in nodejs.
 Since then, I explore all languages ​​with passion !
