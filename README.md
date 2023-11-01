@@ -11,8 +11,8 @@ On this github, I will post npm modules, and others !
 <h1 align="center">My #3 programming languages</h1>
 
 + JavaScript/Nodejs (my main programming language)
-+ HTML/CSS
 + Python
++ Web languages (HTML/CSS...)
 + Also, I explore and use other language : bash, a little kotlin, and many others !
 I planned to learn PHP and C.
 
